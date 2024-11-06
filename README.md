@@ -28,7 +28,7 @@ I'm a passionate Software Developer based in Depok, Indonesia, driven by the art
   - Role: Backend developer
   - Built and maintained Spring REST API architecture
 
-- [💼 Kukilabs](https://kuki-code-challenge-2-5qtcwjcyg-kurniawan-rizkis-projects.vercel.app/)
+- [💼 Kukilabs](https://kuki-code-challenge-2.vercel.app/)
   - Solo project: Company profile website
   - Fully developed using Next.js and Typescript
   - Handled complete development lifecycle
