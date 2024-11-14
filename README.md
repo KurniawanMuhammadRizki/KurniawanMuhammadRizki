@@ -42,7 +42,7 @@ I'm a passionate Software Developer based in Depok, Indonesia, driven by the art
 💡 I'm always exploring new technologies and methodologies to create impactful solutions. My experience ranges from building complex web applications to streamlining workflows for diverse institutions.
 🤝 I thrive both in independent projects and collaborative environments, always aiming to contribute meaningful solutions while growing alongside experienced developers.
 
-💬 Let's connect and collaborate! Feel free to reach out to me at kurniawanmuhammadr@gmail.com
+💬 Let's connect and collaborate! Feel free to reach out to me at kurniawanmuhammadr@gmail.com or [linkedin.com/in/kurniawanmuhammadrizki/](https://www.linkedin.com/in/kurniawanmuhammadrizki/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kurniawanmr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurniawanmuhammadrizki) 
